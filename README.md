@@ -53,7 +53,6 @@ get_next_line/
 
 ```bash
 make          # Compile mandatory version
-make bonus    # Compile bonus version (if implemented)
 make clean    # Remove object files
 make fclean   # Remove object files and executable
 make re       # Clean and rebuild
