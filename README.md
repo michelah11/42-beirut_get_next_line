@@ -61,17 +61,5 @@ make re       # Clean and rebuild
 
 ---
 
-## 🔧 Bonus Features
-
-If the mandatory part is perfect, bonus features may include:
-
-- Support for **multiple file descriptors** simultaneously.
-- One single **static variable** used across function calls.
-- Additional files for bonus:
-  - `get_next_line_bonus.c`
-  - `get_next_line_bonus.h`
-  - `get_next_line_utils_bonus.c`
-
----
 
 <p align="center"><i>A great exercise in stateful programming, memory management, and low-level stream handling in C.</i></p>
